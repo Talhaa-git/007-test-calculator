@@ -1,3 +1,8 @@
-# 007-test-calculator
-this calculator is made in python with streamlit api.
-enjoy! 
+# web app deployed on Heroku
+
+The deployed web app is live at https:
+
+
+
+The web app was built in Python using the following libraries:
+* streamlit
