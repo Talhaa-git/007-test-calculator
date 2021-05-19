@@ -14,7 +14,7 @@ st.text("Use Drop Down menu below to navigate between Homepage and Calculator.")
 app.add_app("Choose Calculations here", home.app)
 app.add_app("Basic calculations", calculator.app)
 app.add_app("Trignometry", trigno.app)
-app.add_app("Logrithms", Logri.app)
+app.add_app("Logarithms", Logri.app)
 app.add_app("Others", other.app)
 # The main app
 app.run()
